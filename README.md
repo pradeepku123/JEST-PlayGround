@@ -1,4 +1,4 @@
-## Ecplore JEST Testing FrameWork
+## Explore JEST Testing FrameWork
 
 ## install Project Setup
 
